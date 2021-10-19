@@ -6,4 +6,4 @@ Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+{% include code.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
