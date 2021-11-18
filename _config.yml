@@ -9,4 +9,4 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 title:		   "Portfolio Oswaldo Zárate"
 description: "Powered by Jekyll and GitHub Pages"
-author:      "Paul Le"
+author:      "Oswaldo L. Zárate"
