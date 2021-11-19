@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'PREDICTOR DE SALARIOS PARA DESARROLADORES WEB'
-title2: 'Basado en la Encuesta para desarrolladores de Stack Overflow 2018'
+'Basado en la Encuesta para desarrolladores de Stack Overflow 2018'
 ---
-### Descripción General ###
+### **Descripción General** ###
 
 Este proyecto muestra la construcción de una aplicación web interactiva denominada **Predictor de Salarios**, el proyecto fue desarrollado en el lenguaje de programación `Python` con librerías como `Pandas, Numpy y Matplotlib` para el *Análisis exploratorio de Datos, limpieza, extracción de características, etiquetado y visualización de los datos*.
 
@@ -18,4 +18,3 @@ Este proyecto muestra la construcción de una aplicación web interactiva denomi
 
 {% include code.html url="http://predictor-de-salarios.herokuapp.com" code="projects/proj-1/wall.jpg" %}
 
-https://github.com/waloZarate/PrediccionSalarios-AppWeb/blob/f6fd19f9ebe3728261bb6f0e8c0d5b0ff3eda6d3/Prediccion_Salarios.ipynb
