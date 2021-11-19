@@ -3,8 +3,7 @@ layout: post
 title: 'PREDICTOR DE SALARIOS PARA DESARROLADORES WEB'
 ---
 ##### Basado en la Encuesta para desarrolladores de Stack Overflow 2018 #####
-- **DESCRIPCIÓN GENERAL**
-
+<p style="font-size:25px">&#128074; DESCRIPCIÓN GENERAL</p> 
 Este proyecto muestra la construcción de una aplicación web interactiva denominada **Predictor de Salarios**, el proyecto fue desarrollado en el lenguaje de programación `Python` con librerías como `Pandas, Numpy y Matplotlib` para el *Análisis exploratorio de Datos, limpieza, extracción de características, etiquetado y visualización de los datos*.
 
  Así mismo el proyecto reúne conocimientos sobre los algoritmos de `Machine Learning`, como **Regresión Lineal, Árbol de Decisiones y Bosque Aleatorio** que fueron los modelos usados en la construcción, entrenamiento y evaluación del proyecto a través de la librería `Scikit-learn`. 
@@ -15,25 +14,24 @@ Este proyecto muestra la construcción de una aplicación web interactiva denomi
 
 ![Life-Cycle Project ](/assets/img/projects/proj-1/MLOps-life-cycle CORREDIGO EN ESPAÑOL.jpg "Ciclo de vida Proyecto")
 
-[Porfavor vea el código](https://github.com/waloZarate/PrediccionSalarios-AppWeb/blob/f6fd19f9ebe3728261bb6f0e8c0d5b0ff3eda6d3/Prediccion_Salarios.ipynb target="_blank)
 
-<p style="font-size:30px">&#128071; Porfavor vea el codigo</p> 
+<p style="font-size:25px">&#128071; Porfavor vea el código pinchando en la imagen</p> 
 
 {% include image.html url="https://github.com/waloZarate/PrediccionSalarios-AppWeb/blob/f6fd19f9ebe3728261bb6f0e8c0d5b0ff3eda6d3/Prediccion_Salarios.ipynb" image="projects/proj-1/dog.jpg" %}
 
-- **OBJETIVO DE LA APLICACIÓN - PREDICTOR DE SALARIOS**
-
+<p style="font-size:25px">&#128074; OBJETIVOS DE LA APP - PREDICTOR DE SALARIOS</p> 
 Realizar la predicción de salarios para desarrolladores web en función de características de entrada como el País, el nivel de educación y los años de experiencia, la aplicación hace uso de estos valores de entrada para calcular la predicción del salario basándose en el modelo de Regresión Lineal entrenado y validado en el codigo desarrollado.
 
 Así mismo la aplicación tiene la funcionalidad de generar graficas del conjunto de datos, visualizando 3 graficas que ayudan a comprender los datos analizados.
 
 Los resultados son con fines recreativos y demostrativos y no deben usarse para decisiones de contratación.
 
- - **A continuación puede hacer click en la imagen e interactuar con la Web App:**
+ <p style="font-size:25px">&#128071; Haga click en la imagen e interactue con la Web App </p> 
  
 {% include code.html url="http://predictor-de-salarios.herokuapp.com" code="projects/proj-1/wall.jpg" %}
 
 - **CONTEXTO DEL DATASET: Encuesta para desarrolladores de Stack Overflow 2018**
+- <p style="font-size:25px">&#128640; CONTEXTO DEL DATASET: Encuesta para desarrolladores de Stack Overflow 2018</p> 
 
 Cada año, en Stack Overflow se consulta a la comunidad de desarrolladores sobre todo, desde sus tecnologías favoritas hasta sus preferencias laborales. La encuesta realizada en 2018 marca el octavo año que se publican los resultados de la Encuesta anual para desarrolladores.
 
@@ -44,3 +42,4 @@ El resultado de esta encuesta para desarrolladores de 2018 está organizado en u
 Hay 98,855 respuestas en esta publicación de datos públicos. Estas respuestas son las que consideramos "calificadas" para fines analíticos. Se iniciaron aproximadamente 20,000 respuestas, pero no se incluyeron aquí porque los encuestados no respondieron suficientes preguntas, o solo respondieron preguntas con información de identificación personal. De las respuestas calificadas, 67,441 completaron la encuesta completa.
 
 <span class="icoest4">&#10025;</span>
+<span class="icoest4">&#10025;</span><span class="icoest4">&#10025;</span><span class="icoest4">&#10025;</span><span class="icoest4">&#10025;</span><span class="icoest4">&#10025;</span><span class="icoest4">&#10025;</span><span class="icoest4">&#10025;</span><span class="icoest4">&#10025;</span><span class="icoest4">&#10025;</span><span class="icoest4">&#10025;</span><span class="icoest4">&#10025;</span><span class="icoest4">&#10025;</span>
