@@ -2,8 +2,8 @@
 layout: post
 title: 'PREDICTOR DE SALARIOS PARA DESARROLADORES WEB'
 ---
-#### Basado en la Encuesta para desarrolladores de Stack Overflow 2018 #### 
-### **Descripción General** ###
+##### Basado en la Encuesta para desarrolladores de Stack Overflow 2018 #####
+###### **Descripción General** ######
 
 Este proyecto muestra la construcción de una aplicación web interactiva denominada **Predictor de Salarios**, el proyecto fue desarrollado en el lenguaje de programación `Python` con librerías como `Pandas, Numpy y Matplotlib` para el *Análisis exploratorio de Datos, limpieza, extracción de características, etiquetado y visualización de los datos*.
 
