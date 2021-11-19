@@ -41,4 +41,9 @@ El resultado de esta encuesta para desarrolladores de 2018 está organizado en u
 
 Hay 98,855 respuestas en esta publicación de datos públicos. Estas respuestas son las que consideramos "calificadas" para fines analíticos. Se iniciaron aproximadamente 20,000 respuestas, pero no se incluyeron aquí porque los encuestados no respondieron suficientes preguntas, o solo respondieron preguntas con información de identificación personal. De las respuestas calificadas, 67,441 completaron la encuesta completa.
 
-.icoest4 {font-size: 40px; color: #af023d;} | <span class="icoest4">&#10025;</span>
+.icoest4 
+  font-size: 
+  40px; color:
+  #af023d; 
+  
+<span class="icoest4">&#10025;</span>
