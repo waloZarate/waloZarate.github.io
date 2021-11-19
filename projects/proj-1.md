@@ -16,7 +16,7 @@ Este proyecto muestra la construcción de una aplicación web interactiva denomi
 
 <p style="font-size:25px">&#128071; Porfavor vea el código pinchando en la imagen</p> 
 
-{% include image.html url="https://github.com/waloZarate/PrediccionSalarios-AppWeb/blob/f6fd19f9ebe3728261bb6f0e8c0d5b0ff3eda6d3/Prediccion_Salarios.ipynb" image="projects/proj-1/dog.jpg" %}
+{% include image.html url="https://walozarate.github.io/code1" image="projects/proj-1/dog.jpg" %}
 
 <p style="font-size:25px">&#128073; OBJETIVOS DE LA APP - PREDICTOR DE SALARIOS</p> 
 Realizar la predicción de salarios para desarrolladores web en función de características de entrada como el País, el nivel de educación y los años de experiencia, la aplicación hace uso de estos valores de entrada para calcular la predicción del salario basándose en el modelo de Regresión Lineal entrenado y validado en el codigo desarrollado.
