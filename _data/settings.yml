@@ -11,7 +11,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Proyecto Uno',   url: 'proj-1'}
+- {name: 'Predictor Salarios App',   url: 'proj-1'}
 - {name: 'Project Two',   url: 'proj-2'}
 - {name: 'Project Three', url: 'proj-3'}
 - {name: 'Project Four',  url: 'proj-4'}
@@ -24,7 +24,7 @@ social:
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/ozarate'}
 - {icon: 'github',    link: 'https://github.com/waloZarate'}
 - {icon: 'twitter',   link: 'https://twitter.com/walozarate'}
-- {icon: 'facebook',   link: 'https://twitter.com/osvaldo.zaratec'}
+- {icon: 'facebook',   link: 'https://facebook.com/osvaldo.zaratec'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
