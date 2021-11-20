@@ -1,21 +1,57 @@
 #-------------------------------
 # General Site Settings
-
+# El menu quedo obsoleto a causa del nuevo navegador menu
 menu:
-- {name: 'Proyectos APP', url: ''}
-- {name: 'Machine Learning',     url: 'blog'}
-- {name: 'Deep Learning',    url: 'about'}
-- {name: 'Computer Vision',  url: 'contact'}
+- {name: 'Proyectos APP',     url: ''}
+- {name: 'Machine Learning',  url: 'ml'}
+- {name: 'Deep Learning',     url: 'dl'}
+- {name: 'Computer Vision',   url: 'cv'}
 
 #-------------------------------
-# Projects Section
+# Projects APP Section
 
 projects:
-- {name: 'Predictor Salarios App',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+- {name: 'Predictor Salarios APP',   url: 'proj-1'}
+- {name: 'Predictor de Cargos para Asegurados APP',   url: 'proj-2'}
+- {name: 'Clasificadores APP', url: 'proj-3'}
+- {name: 'MAGI RECETA Web APP',  url: 'proj-4'}
+- {name: 'Reconocimiento Facial APP',  url: 'proj-5'}
+
+#-------------------------------
+
+#-------------------------------
+# Machine Learning Section
+
+machine_learning:
+- {name: 'Algoritmos de Regresion',   url: 'ml-1'}
+- {name: 'Algoritmos de Clasificacion',   url: 'ml-2'}
+- {name: 'Algoritmos Agrupamiento', url: 'ml-3'}
+- {name: 'Sistemas de Recomendacion',  url: 'ml-4'}
+- {name: 'Filtrado Colaborativo',  url: 'ml-5'}
+
+#-------------------------------
+
+#-------------------------------
+# Deep Learning Section
+
+deep_learning:
+- {name: 'Neural Network Convolutional',   url: 'dl-1'}
+- {name: 'RNN',   url: 'dl-2'}
+- {name: 'NPL', url: 'dl-3'}
+- {name: 'CNN',  url: 'dl-4'}
+- {name: 'Redes Neuronales Artificiales',  url: 'dl-5'}
+
+#-------------------------------
+
+#-------------------------------
+# Computer Vision Section
+
+computer_vision:
+- {name: 'face recognition',   url: 'cv-1'}
+- {name: 'box delimiter',   url: 'cv-2'}
+- {name: 'slides', url: 'cv-3'}
+- {name: 'proximamente',  url: 'cv-4'}
+- {name: 'En desarrollo',  url: 'cv-5'}
 
 #-------------------------------
 # Contact Section
@@ -25,6 +61,7 @@ social:
 - {icon: 'github',    link: 'https://github.com/waloZarate'}
 - {icon: 'twitter',   link: 'https://twitter.com/walozarate'}
 - {icon: 'facebook',   link: 'https://facebook.com/osvaldo.zaratec'}
+- {icon: 'youtube',   link: 'https://youtube.com'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
