@@ -2,10 +2,10 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'Blog',     url: 'blog'}
-- {name: 'About',    url: 'about'}
-- {name: 'Contact',  url: 'contact'}
+- {name: 'Proyectos APP', url: ''}
+- {name: 'Machine Learning',     url: 'blog'}
+- {name: 'Deep Learning',    url: 'about'}
+- {name: 'Computer Vision',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
