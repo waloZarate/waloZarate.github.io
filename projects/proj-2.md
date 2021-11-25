@@ -16,7 +16,7 @@ salud del paciente en el momento de la hospitalización.
 
 <p style="font-size:25px">&#128073;DESARROLLO DEL PROYECTO</p> 
 
-Este proyecto muestra la construcción de una aplicación web interactiva denominada **PREDICTOR DE CARGOS POR SEGUROS APP**, el proyecto fue desarrollado en el lenguaje de programación `Python` con las librerías `Pandas, Numpy, Matplotlib, Seaborn` para el *Análisis exploratorio de Datos, limpieza, extracción de características, etiquetado y visualización de los datos*.
+El proyecto muestra la construcción de una aplicación web interactiva denominada **PREDICTOR DE CARGOS POR SEGUROS APP**, el proyecto fue desarrollado en el lenguaje de programación `Python` con las librerías `Pandas, Numpy, Matplotlib, Seaborn` para el *Análisis exploratorio de Datos, limpieza, extracción de características, etiquetado y visualización de los datos*.
 
  Así mismo el proyecto reúne conocimientos sobre los algoritmos de `Machine Learning`, como **Regresión Lineal, Árbol de Decisiones y Bosque Aleatorio** que fueron los modelos usados en la construcción, entrenamiento y evaluación del proyecto a través de la librería `Scikit-learn`. 
  

@@ -8,7 +8,7 @@ title: 'PREDICTOR DE SALARIOS PARA DESARROLADORES WEB'
 
 
 <p style="font-size:25px">&#128073; DESCRIPCIÓN GENERAL</p> 
-Este proyecto muestra la construcción de una aplicación web interactiva denominada **Predictor de Salarios**, el proyecto fue desarrollado en el lenguaje de programación `Python` con librerías como `Pandas, Numpy y Matplotlib` para el *Análisis exploratorio 
+El proyecto muestra la construcción de una aplicación web interactiva denominada **Predictor de Salarios**, el proyecto fue desarrollado en el lenguaje de programación `Python` con librerías como `Pandas, Numpy y Matplotlib` para el *Análisis exploratorio 
 de Datos, limpieza, extracción de características, etiquetado y visualización de los
 datos*.
 
