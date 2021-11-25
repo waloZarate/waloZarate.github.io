@@ -47,6 +47,8 @@ EL objetivo principal del modelo es poder predecir los cargos de un asegurado ho
 Basándose en estas características el modelo es capaz de predecir futuros cargos por seguro. 
 Y resulta más fácil tanto para el individuo como para la aseguradora de salud tener una idea sobre los cargos del seguro a pagar o ser pagados.
 
+Una funcionalidad extra que lleva la App es poder cargar el conjunto de datos que desee, para ser examinado, en la barra lateral de la App exísten dos opciones; una es predicción en línea  y la otra es predicción por lotes. 
+
 <p style="font-size:25px">&#128073;RESULTADOS - PUESTA EN PRODUCCION DE LA WEB/APP PREDICTOR DE CARGOS POR SEGUROS</p> 
 
  <p style="font-size:25px">&#128071; Haga click en la imagen e interactue con la Web App </p> 
