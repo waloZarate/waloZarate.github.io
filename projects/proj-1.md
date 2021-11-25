@@ -3,10 +3,17 @@ layout: post
 title: 'PREDICTOR DE SALARIOS PARA DESARROLADORES WEB'
 ---
 ##### Basado en la Encuesta para desarrolladores de Stack Overflow 2018 #####
-<p style="font-size:25px">&#128073; DESCRIPCIÓN GENERAL</p> 
-Este proyecto muestra la construcción de una aplicación web interactiva denominada **Predictor de Salarios**, el proyecto fue desarrollado en el lenguaje de programación `Python` con librerías como `Pandas, Numpy y Matplotlib` para el *Análisis exploratorio de Datos, limpieza, extracción de características, etiquetado y visualización de los datos*.
 
- Así mismo el proyecto reúne conocimientos sobre los algoritmos de `Machine Learning`, como **Regresión Lineal, Árbol de Decisiones y Bosque Aleatorio** que fueron los modelos usados en la construcción, entrenamiento y evaluación del proyecto a través de la librería `Scikit-learn`. 
+![Life-Cycle Project ](/assets/img/projects/proj-1/7.jpeg "PRIMEROS PASOS EN PAPEL")
+
+
+<p style="font-size:25px">&#128073; DESCRIPCIÓN GENERAL</p> 
+Este proyecto muestra la construcción de una aplicación web interactiva denominada **Predictor de Salarios**, el proyecto fue desarrollado en el lenguaje de programación `Python` con librerías como `Pandas, Numpy y Matplotlib` para el *Análisis exploratorio 
+de Datos, limpieza, extracción de características, etiquetado y visualización de los
+datos*.
+
+ Así mismo el proyecto reúne conocimientos sobre los algoritmos de `Machine Learning`,
+ como **Regresión Lineal, Árbol de Decisiones y Bosque Aleatorio** que fueron los modelos usados en la construcción, entrenamiento y evaluación del proyecto a través de la librería `Scikit-learn`. 
  
  Para la integración del proyecto como una aplicación web usamos `Streamlit` que es un framework para Machine Learning y finalmente la implementación de la aplicación en la nube se la hizo mediante `Keroku` que es una plataforma de servicios en la nube (concidos como PaaS o Platform as a Service). 
 
@@ -23,7 +30,7 @@ Realizar la predicción de salarios para desarrolladores web en función de cara
 
 Así mismo la aplicación tiene la funcionalidad de generar graficas del conjunto de datos, visualizando 3 graficas que ayudan a comprender los datos analizados.
 
-Los resultados son con fines recreativos y demostrativos y no deben usarse para decisiones de contratación.
+La aplicación utiliza un conjunto de datos de una encuesta realizada en Estados Unidos, la elección del conjunto de datos fue por que los datos son de caracter público y cualquier persona puede acceder a este, sin embargo el modelo puede fácilmente adaptado a un conjunto de datos de cualquier base de datos de la empresa interesada en el modelo.
 
  <p style="font-size:25px">&#128071; Haga click en la imagen e interactue con la Web App </p> 
  

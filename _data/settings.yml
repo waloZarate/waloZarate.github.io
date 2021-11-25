@@ -6,6 +6,7 @@ menu:
 - {name: 'Machine Learning',  url: 'ml'}
 - {name: 'Deep Learning',     url: 'dl'}
 - {name: 'Computer Vision',   url: 'cv'}
+- {name: 'code 2',   url: 'code2'}
 
 #-------------------------------
 # Projects APP Section
