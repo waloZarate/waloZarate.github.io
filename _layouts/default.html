@@ -19,6 +19,17 @@
     </title>
     <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Hojas de Estilo para Particles HEad-->
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
+
+    <!-- Slide Down Arrow Animated -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.2.3/animate.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/assets/css/arrow.css">
+
+    
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <!-- Use Atom -->
@@ -29,6 +40,7 @@
     {% include analytics.html %}
     <!-- Use Jekyll SEO plugin -->
     {% seo %}
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-213669584-3"></script>
     <script>
@@ -42,17 +54,64 @@
 
   </head>
   <body>
-    <div align="center">  
+    
+     <div class="particlehead">
+      <!--<h1><strong>PORTOLIO </strong>de Proyectos <em>de: </em>Oswaldo
+      </h1>-->
+
+      <!-- CCS TEXT ANIMATION AMAZING EFFECT -->
+      <div class="sp-container">
+        <div class="sp-content">
+            <div class="sp-globe"></div>
+            <h2 class="frame-1">Bienvenid@ a mi</h2>
+            <h2 class="frame-2">PORTFOLIO DE PROYECTOS</h2>
+            <h2 class="frame-3">Mi nombre es Oswaldo</h2>
+            <h2 class="frame-4">GRACIAS POR SU VISITA</h2>
+            <h2 class="frame-5">
+                <span>PROYECTOS,</span>
+                <span>CODIGOS,</span>
+                <span>EXPERIENCIA.</span>
+            </h2>
+
+           <!-- <a class="sp-circle-link" href="#">Oswaldo Zárate</a> -->
+            
+        </div>
+    </div>
+     
+      <!-- FIN CSS TEXT ANIMATION AMAZING EFFECT -->
+
+            <!-- Scroll Down Arrow-->
+            <div class="arrow-container animated fadeInDown">
+              <div class="arrow-2">
+                <i class="fa fa-angle-down"></i>
+              </div>
+              <div class="arrow-1 animated hinge infinite zoomIn"></div>
+            </div>
+            <!-- FIn Scroll Down Arrow -->
+    </div>
+      
+    <!--<div align="center">  
       <a href="https://walozarate.github.io">
       <img src="/assets/img/projects/proj-1/osveloper-300x150.gif" width="300px" height="150px" 
       alt="Haz clic aquí para volver a la página de inicio">
       </a>
-    </div>
+    </div>-->
     <div class="site-container">
       {% include header.html %}
       {{ content }}
       {% include footer.html %}
     </div>
+
+
+    <!-- Script FOR HEAD-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r61/three.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.11.4/TweenMax.min.js"></script>
+    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/40480/OBJLoader.js"></script>
+    <script src="/assets/js/head.js"></script>
+    <!-- FIN Script FOR HEAD -->
+
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </body>
 </html>

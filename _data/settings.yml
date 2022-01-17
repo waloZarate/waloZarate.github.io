@@ -15,8 +15,8 @@ projects:
 - {name: 'Predictor Salarios APP',   url: 'proj-1'}
 - {name: 'Predictor de Cargos para Asegurados APP',   url: 'proj-2'}
 - {name: 'Clasificadores APP', url: 'proj-3'}
-- {name: 'MAGI RECETA Web APP',  url: 'proj-4'}
-- {name: 'Reconocimiento Facial APP',  url: 'proj-5'}
+- {name: 'GENERADOR DE RECETAS Web-APP',  url: 'proj-4'}
+- {name: 'MAGIC.PLAN - PLAN.COCINA WEB-APP',  url: 'proj-5'}
 
 #-------------------------------
 

@@ -2,6 +2,7 @@
   
   overflow: hidden
   display: inline-block
+  
 
   li
     background-color: #f0f0f0
@@ -121,6 +122,7 @@
 
 header
   height: 90px
+  background-color: #e1dddd
   .logo
     float: left
     margin: 1px
@@ -129,12 +131,13 @@ header
       weight: 700
     a
       display: inline-block
-      color: #fa220a
+      color: #e1dddd
       &:hover
         color: $accent-color
   nav
     float: right
     margin: 30px 30px 0 0
+    background-color: #e1dddd  
         
 @media (max-width: 768px)
   header
@@ -144,3 +147,16 @@ header
       margin: 0px
       margin-top: 18px
       float: left
+
+@media (max-width: 768px) 
+  .fancyNav
+    
+    li
+      a
+        padding: 0px
+        font-size: 16px
+        &:hover
+          color: $accent-color
+
+  
+
