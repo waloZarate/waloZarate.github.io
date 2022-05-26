@@ -36,7 +36,7 @@ la aplicación también es capaz de generar recetas aleatorias para agregar a la
 
 <!-- <p style="font-size:20px">&#128071; Haga click en la imagen e interactue con la Web App </p> -->
  
-{% include code.html url="https://oswaldozarate.github.io/index3" code="projects/proj-2/adaptado.jpg" %}
+{% include code.html url="https://cookplan.herokuapp.com/" code="projects/proj-2/adaptado.jpg" %}
 ---
 <!--![Life-Cycle Project ](/assets/img/projects/proj-3/proyecto3.jpg "Ciclo de vida Proyecto")-->
 ---
